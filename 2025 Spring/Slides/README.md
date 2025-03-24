@@ -3,3 +3,4 @@ Lecture 1:Intro
 Lecture 2: Sort  
 Lecture 3: Divide & Conquer  
 Lecture 4: Data Structures  
+Lecture 5: Dynamic Programming  
