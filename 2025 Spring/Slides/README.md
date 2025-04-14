@@ -5,4 +5,4 @@ Lecture 3: Divide & Conquer
 Lecture 4: Data Structures  
 Lecture 5: Dynamic Programming  
 Lecture 6: Greedy Algorithms  
-Lecture 8: Graph Algorithms  
+Lecture 8: Graph Algorithms: DFS and Connected Components  
