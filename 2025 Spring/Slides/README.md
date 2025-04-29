@@ -10,3 +10,4 @@ Lecture 9: BFS and Shortest Paths
 Lecture 10: All Pairs Shortest Paths  
 Lecture 7: Amortized Analysis  
 Lecture 11: Minimum Spanning Trees  
+Lecture 12: Max Flow  
