@@ -12,3 +12,4 @@ Lecture 7: Amortized Analysis
 Lecture 11: Minimum Spanning Trees  
 Lecture 12: Max Flow  
 Lecture 15: Linear Programmin  
+Sparsest Cut and Metric Embedding
