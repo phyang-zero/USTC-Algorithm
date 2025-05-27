@@ -12,5 +12,5 @@ Lecture 07: Amortized Analysis
 Lecture 11: Minimum Spanning Trees  
 Lecture 12: Max Flow  
 Lecture 15: Linear Programmin  
-sparse_cut: Sparsest Cut and Metric Embedding
-Lecture 13: Number Theoretic Algorithm
+sparse_cut: Sparsest Cut and Metric Embedding  
+Lecture 13: Number Theoretic Algorithm  
