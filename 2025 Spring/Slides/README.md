@@ -15,3 +15,4 @@ Lecture 15: Linear Programmin
 sparse_cut: Sparsest Cut and Metric Embedding  
 Lecture 13: Number Theoretic Algorithm  
 Lecture 14: String Matching  
+Lecture 16: Computational Complexity  
