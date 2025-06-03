@@ -1,5 +1,5 @@
 Lecture 0  
-Lecture 01:Intro  
+Lecture 01: Intro  
 Lecture 02: Sort  
 Lecture 03: Divide & Conquer  
 Lecture 04: Data Structures  
